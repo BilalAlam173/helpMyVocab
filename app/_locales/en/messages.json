@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "helpMyVocab",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "saves your you spend on taking a pause to google new words that you encounter while reading a web page",
+    "description": "The description of the application"
+  }
+}
